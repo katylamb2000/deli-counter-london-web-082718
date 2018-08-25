@@ -10,3 +10,6 @@ def take_a_number (katz_deli, name)
   puts "#{katz_deli.length+1} #{name}"
 end
 end
+
+def now_srerving ()
+  puts 
